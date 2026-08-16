@@ -5,5 +5,5 @@ import { defineConfig } from "vite";
 // https://vitejs.dev
 export default defineConfig({
   plugins: [react(), tailwindcss()],
-  base: "/ Interactive_Analytics_Dashboard/",
+  base: "/Interactive_Analytics_Dashboard/",
 });
